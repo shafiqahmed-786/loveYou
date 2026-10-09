@@ -132,8 +132,12 @@ Commit and push your changes.
 
 Open a pull request.
 
-📜 License
+## ❤️ Made for Love
 
-If you intend to make this project open source, consider adding a LICENSE file specifying the terms under which others may use, modify, and distribute it.
+No licenses, no restrictions, just love. 💗
+
+This little project is made to spread love, happiness, and smiles. Anyone is welcome to use it, share it, modify it, or make something beautiful with it.
+
+Because love is meant to be shared, not owned. 🌍❤️
 
 Different languages. One feeling. Infinite ways to say I love you. ❤️
