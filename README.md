@@ -12,7 +12,33 @@ A generative typographic art experiment in Python that renders a heart silhouett
 - **Post-Render Shimmer:** Continuous ambient glimmers on random phrases once drawing completes.
 - **Zero External Dependencies:** Built entirely with Python's standard library (`turtle`, `tkinter`, `math`, `random`).
 
-## How to Run
+## 🌐 Live Demo
 
-```bash
-python love.py
+Experience the Love Heart app here: [https://loveyou-gray-delta.vercel.app/](https://loveyou-gray-delta.vercel.app/)
+
+## 🚀 How to Run
+
+### Run the Web App Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/shafiqahmed-786/loveYou.git
+   cd loveYou
+   ```
+
+2. Open `index.html` in your browser, or use a local server:
+
+   ```bash
+   python -m http.server 8000
+   ```
+
+3. Visit `http://localhost:8000` in your browser.
+
+### Features
+
+- ❤️ Animated heart filled with romantic phrases.
+- 🌍 Express your love in 20+ languages.
+- ✨ Beautiful glowing effects and smooth animations.
+- 📱 Responsive experience across devices.
+- 💌 A little reminder that love speaks every language.
